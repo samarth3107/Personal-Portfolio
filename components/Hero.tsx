@@ -19,7 +19,7 @@ export default function Hero() {
         {/* LEFT SIDE */}
         <div>
           <p className="text-blue-400 text-lg font-medium mb-3">
-            👋 Hello, I&apos
+            👋 Hello, I am 
           </p>
 
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-extrabold leading-tight">
