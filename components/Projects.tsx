@@ -98,7 +98,7 @@ const projects = [
       "Tailwind CSS",
       "Framer Motion",
     ],
-    github: "https://github.com/samarth3107",
+    github:"https://github.com/samarth3107/Personal-Portfolio",
   },
 ];
 
